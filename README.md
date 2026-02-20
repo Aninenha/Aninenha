@@ -33,7 +33,12 @@ Estudo programação como hobbie desde janeiro de 2023, em dezembro do mesmo ano
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aninenha&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aninenha&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### GitHub Stats
+
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Aninenha&theme=dark&background=000000&border=30A3DC&ring=E94D5F&fire=E94D5F&currStreakNum=FFF&sideNums=FFF&currStreakLabel=E94D5F&sideLabels=30A3DC&dates=FFF)
+
+![GitHub Profile Summary Cards - Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aninenha&theme=github_dark)
+
+![GitHub Profile Summary Cards - Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aninenha&theme=github_dark)
 
 ### Obrigada pela atenção, volte sempre para mais atualizações na minha evolução :D
