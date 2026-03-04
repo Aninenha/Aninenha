@@ -7,22 +7,23 @@ Estudo programação como hobbie desde janeiro de 2023, em dezembro do mesmo ano
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:anaflaviafiorini@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ana-flávia-maciel-fiorini-3906552aa/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/anaflaviafiorini/)
+[![Perfil Rocketseat](https://img.shields.io/badge/Rocketseat-8A2BE2)](https://app.rocketseat.com.br/me/goldgrc)
 
 ### Atualmente conheço e me sinto segura em usar:
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 
 ### Tenho base e estou aprendendo:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=orange)](https://docs.oracle.com/en/java/)
+![PL](https://img.shields.io/badge/PL%2FSQL-000?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=gray&color=000)
 
 ### Planejo aprender:
 
-![PL](https://img.shields.io/badge/PL%2FSQL-000?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=gray&color=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
